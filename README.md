@@ -200,13 +200,17 @@ GROQ_API_KEY=your_groq_api_key
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/1E3A5F/ffffff?text=PrepWise+Dashboard)
+<img width="652" height="367" alt="Screenshot 2026-04-21 at 2 02 17 PM" src="https://github.com/user-attachments/assets/4832cdcc-9eda-43f1-b01e-90cf55e3fd05" />
+
 
 ### Alerts
-![Alerts](https://via.placeholder.com/800x400/DC2626/ffffff?text=Disaster+Alerts)
+<img width="652" height="367" alt="Screenshot 2026-04-21 at 2 02 51 PM" src="https://github.com/user-attachments/assets/cc091645-aa8a-48aa-a00c-339ad0f5010c" />
+
+
 
 ### Courses
-![Courses](https://via.placeholder.com/800x400/2563EB/ffffff?text=40+Courses)
+<img width="652" height="367" alt="Screenshot 2026-04-21 at 2 03 01 PM" src="https://github.com/user-attachments/assets/2c883f5e-d8fc-4099-b626-af726a7e5f16" />
+
 
 ---
 
@@ -222,7 +226,7 @@ GROQ_API_KEY=your_groq_api_key
 
 ## 📄 License
 
-MIT License — Built for JNTU Hyderabad Project Review 2026
+
 
 ---
 
